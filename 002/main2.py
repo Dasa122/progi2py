@@ -12,4 +12,5 @@ print("c =", c)
 
 
 print(f"egyik szám: {a}, másik szám: {b}, összegük: {c}")
+print(type(a), type(b), type(c))
 
