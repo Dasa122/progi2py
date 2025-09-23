@@ -113,4 +113,58 @@ osszeg = ot_euro * 5 + ketto_euro * 2 + egy_euro * 1
 print(f"A teljes összeg: {osszeg} euró")
 
 ###########################
+
+
+atmero = float(input("Add meg a dinnye átmérőjét (cm): "))
+db = int(input("Add meg a dinnyék számát: "))
+
+szalag_egy_dinnye = 2 * math.pi * (atmero / 2) * 2  # kétszer körbe 
+szalag_osszesen_cm = szalag_egy_dinnye * db
+szalag_osszesen_m = szalag_osszesen_cm / 100
+
+print(f"{db} dinnye csomagolásához {szalag_osszesen_m} méter szalagra van szükség.")
+
+###########################
+
+hossz = float(input("Add meg a kert hosszát (méterben): "))
+szelesseg = float(input("Add meg a kert szélességét (méterben): "))
+terulet = hossz * szelesseg
+csomagok_szama = math.ceil(terulet / 5)
+print(f"{csomagok_szama} csomag fűmagra lesz szükséged.")
+
+###########################
+
+print(math.sqrt(int(input("Adj meg egy egész számot: ")) + int(input("Adj meg még egy egész számot: "))))
+
+###########################
+
+a = int(input("Adj meg egy egész számot: "))
+b = int(input("Adj meg még egy egész számot: "))
+kulonbseg = abs(a - b)
+print(f"A két szám különbsége: {kulonbseg}")
+
+###########################
+
+huf = float(input("Add meg az összeget forintban (HUF): "))
+
+eur_rate = 297
+usd_rate = 218
+
+eur = huf / eur_rate
+usd = huf / usd_rate
+
+print(f"{huf} HUF = {eur} EUR = {usd} USD")
+
+###########################
 '''
+
+x1 = float(input("Add meg az első pont x koordinátáját: "))
+y1 = float(input("Add meg az első pont y koordinátáját: "))
+x2 = float(input("Add meg a második pont x koordinátáját: "))
+y2 = float(input("Add meg a második pont y koordinátáját: "))
+
+tavolsag = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
+print(f"A két pont távolsága: {tavolsag}")
+
+############################
+
