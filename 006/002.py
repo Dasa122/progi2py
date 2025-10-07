@@ -177,19 +177,16 @@ else:
 
 karakter = input("Adj meg egy karaktert: ")
 
-if len(karakter) != 1:
-    print("Csak egy karaktert adj meg!")
+kod = ord(karakter)
+print(f"A karakter ASCII kódja: {kod}")
+if 48 <= kod <= 57:
+    print("A karakter szám.")
+elif 65 <= kod <= 90:
+    print("A karakter nagybetű.")
+elif 97 <= kod <= 122:
+    print("A karakter kisbetű.")
 else:
-    kod = ord(karakter)
-    print(f"A karakter ASCII kódja: {kod}")
-    if 48 <= kod <= 57:
-        print("A karakter szám.")
-    elif 65 <= kod <= 90:
-        print("A karakter nagybetű.")
-    elif 97 <= kod <= 122:
-        print("A karakter kisbetű.")
-    else:
-        print("A karakter egyéb.")
+    print("A karakter egyéb.")
         
 ################################################
 
