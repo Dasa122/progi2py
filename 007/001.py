@@ -13,7 +13,9 @@ while not eltalata:
         tipp = int(input("Próbáld újra: "))
     else:
         eltalata = True
-        print("Gratulálok, eltaláltad a számot!")for x in range(5):
+        print("Gratulálok, eltaláltad a számot!")
+
+for x in range(5):
     print(f"{x}. Gergo Kovago")
 
 for i in range(1, 10):
