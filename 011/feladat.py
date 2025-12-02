@@ -59,6 +59,51 @@ def feladat21(vastagsag:int, temp:int):
         return "nagyon csuszos"
     
 
+def feladat22(napok: int, arany: float) -> int:
+
+    if not (0 <= arany <= 100):
+        return int(round(napok * arany / 100))
+    
+def feladat23(egok: int, napi_atlag_orak: float):   
+    teljesitmeny_per_ego = 0.05
+    napok = 30
+    return egok * napi_atlag_orak * napok * teljesitmeny_per_ego
+
+def feladat24(vastagsag: int, szelsebesseg: int) -> int:
+    perc = 30
+    if vastagsag < 10:
+        perc += 10
+    if szelsebesseg > 15:
+        perc += 5
+    return perc
+
+def feladat25(emberek: int, tej_dl: float) -> float:
+    return (emberek * tej_dl) / 10.0
+
+def feladat26(jatekos1: int, jatekos2: int) -> str:
+    if jatekos1 > jatekos2:
+        return "Játékos 1"
+    if jatekos2 > jatekos1:
+        return "Játékos 2"
+    return "Döntetlen"
+
+def feladat27(sebesseg: float, csuszasi_egyutthato: float) -> float:
+    if csuszasi_egyutthato == 0:
+        return sebesseg * 10.0 / csuszasi_egyutthato
+        
+def feladat28(vendeg_szam: int, adag_per_vendeg: int) -> int:
+    return vendeg_szam * adag_per_vendeg
+
+def feladat29(hom1: float, hom2: float) -> str:
+    diff = abs(hom1 - hom2)
+    if diff < 5:
+        return "Kicsi"
+    elif diff <= 10:
+        return "Közepes"
+    else:
+        return "Nagy"
+    
+
     
         
 

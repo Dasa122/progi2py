@@ -24,14 +24,22 @@ def szinvalaszto():
     Veletlenszin = random.choice(szinek)
     return Veletlenszin
 
+
 def ruha():
     ruhak = ["polo", "zokni", "polo", "nadrag", "sapka"]
     ruha = random.choice(ruhak)
     return ruha
 
+def kabat(ar:int, mertek:int):
+    arok = ar - (ar / 100 * mertek)
+    return arok
+
+
+
 def main():
     feladat01("kicsi", 4)
     print(szinvalaszto())
     print(ruha())
+    print(f"A kabat ara kedvezmennyel: {kabat(20000, 10)} Ft")
 
 main()
