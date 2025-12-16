@@ -2,7 +2,7 @@ import random
 kepessegek_hos = ["ütés", "rugás"]
 kepessegek_vakmero = ["kardhasítás", "eltűnés"]
 def kezdetiAllapot():
-    eletero = random.randint(100, 150)
+    eletero = random.randint(150, 200)
     return eletero
 
 def jatek():
@@ -19,10 +19,20 @@ def kihivas(nehezsegi_szint):
     tamadas_vakmero = random.choice(kepessegek_vakmero)
     hos_sebzes = sebzodes(nehezsegi_szint, tamadas_hos)
     vakmero_sebzes = sebzodes(nehezsegi_szint, tamadas_vakmero)
+    print(f"{nehezsegi_szint} kor: ")
     print (f"Hős használja a(z) {tamadas_hos} képességet és {hos_sebzes} sebzést okoz.")
     print (f"Vakmerő használja a(z) {tamadas_vakmero} képességet és {vakmero_sebzes} sebzést okoz.")
     hos_hp -= vakmero_sebzes
     vakmero_hp -= hos_sebzes
+
+def gyozelem():
+    global hos_hp, vakmero_hp
+    if hos_hp < vakmero_hp:
+        print("A hős győzött!")
+    elif vakmero_hp < hos_hp:
+        print("A vakmerő győzött!")
+    else:
+        print("Döntetlen!")
 
 def sebzodes(nehezsegi_szint, kepesseg):
     if kepesseg == "ütés":
