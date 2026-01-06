@@ -1,13 +1,1 @@
-bin/
-lib/
-__pycache__/
-*.pyc
-*.pyo
-.Python
-env/
-venv/
-.env/
-.venv/
-*.egg-info/
-*.egg
-CACHEDIR.TAG
+
