@@ -1,0 +1,3 @@
+Toyota,2015,piros
+Honda,2018,kek
+Ford,2020,fekete
