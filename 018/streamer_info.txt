@@ -1,0 +1,5 @@
+RagePlay csatorna: platform=Twitch, viewers=25000, followers=120000, category=FPS, rank=1, growth=0
+CozyCorner csatorna: platform=YouTube, viewers=8000, followers=45000, category=Just Chatting, rank=1, growth=0
+SpeedRunner csatorna: platform=Twitch, viewers=15000, followers=60000, category=Speedrun, rank=1, growth=0
+IndieGamer csatorna: platform=Mixer, viewers=3000, followers=15000, category=Indie, rank=1, growth=0
+ProStrategy csatorna: platform=Twitch, viewers=40000, followers=200000, category=Strategy, rank=1, growth=0
