@@ -1,0 +1,5 @@
+A Arthas tulajdonsagai: game=Warcraft, health=100, strength=80, stamina=70, level=1, experience=0
+A Master Chief tulajdonsagai: game=Halo, health=120, strength=90, stamina=85, level=1, experience=0
+A Lara Croft tulajdonsagai: game=Tomb Raider, health=90, strength=70, stamina=95, level=1, experience=0
+A Mario tulajdonsagai: game=Super Mario, health=80, strength=60, stamina=80, level=1, experience=0
+A Link tulajdonsagai: game=The Legend of Zelda, health=110, strength=75, stamina=90, level=1, experience=0
