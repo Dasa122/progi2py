@@ -1,0 +1,22 @@
+nev;helyszin;ido
+Steve Harrington;plaza;21:14
+Robin Buckley;plaza;21:14
+Dustin Henderson;radio_torony;21:15
+Lucas Sinclair;plaza;21:15
+Mike Wheeler;iskola;21:20
+Max Mayfield;plaza;21:15
+Jonathan Byers;erdő;21:05
+Nancy Wheeler;ujsagiroda;21:18
+Billy Hargrove;strand;21:15
+Argyle;ut;21:12
+Eddie Munson;plaza;21:15
+Murray Bauman;hotel;21:15
+Keith;video_bolt;21:15
+Tom Holloway;ujsagiroda;21:16
+Steve Harrington;plaza;21:16
+Robin Buckley;plaza;21:16
+Lucas Sinclair;plaza;21:16
+Max Mayfield;plaza;21:16
+Eddie Munson;plaza;21:16
+Keith;video_bolt;21:16
+Tom Holloway;ujsagiroda;21:17

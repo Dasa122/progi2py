@@ -1,0 +1,10 @@
+kamera_id;helyszin;ido;szemely
+1;plaza;21:15;Steve Harrington
+2;plaza;21:15;Max Mayfield
+3;plaza;21:15;Lucas Sinclair
+4;iskola;21:20;Mike Wheeler
+5;strand;21:15;Billy Hargrove
+6;ut;21:12;Argyle
+7;video_bolt;21:15;Keith
+8;ujsagiroda;21:18;Nancy Wheeler
+9;hotel;21:15;Murray Bauman

@@ -1,0 +1,15 @@
+id;nev;kor;foglalkozas;lakhely
+1;Steve Harrington;19;diak;Hawkins
+2;Robin Buckley;20;video_bolt_elado;Hawkins
+3;Dustin Henderson;16;diak;Hawkins
+4;Lucas Sinclair;16;diak;Hawkins
+5;Mike Wheeler;16;diak;Hawkins
+6;Max Mayfield;16;diak;Hawkins
+7;Jonathan Byers;18;fotos;Hawkins
+8;Nancy Wheeler;18;ujsagiro;Hawkins
+9;Billy Hargrove;19;uszomester;Hawkins
+10;Argyle;21;pizzafutar;California
+11;Eddie Munson;20;zenesz;Hawkins
+12;Murray Bauman;45;magannyomozo;Illinois
+13;Keith;22;video_bolt_vezeto;Hawkins
+14;Tom Holloway;40;ujsagszerkeszto;Hawkins

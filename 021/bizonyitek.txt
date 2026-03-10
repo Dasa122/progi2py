@@ -1,0 +1,5 @@
+buntett_helyszin=plaza
+buntett_ido=21:15
+foglalkozas!=diak
+kamera_nem_lathatja=true
+telefon_helyszin=plaza
