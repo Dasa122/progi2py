@@ -1,0 +1,19 @@
+europai_orszagok = [    "Albánia", "Andorra", "Ausztria", "Belgium", "Bosznia-Hercegovina", "Bulgária", "Ciprus",
+    "Csehország", "Dánia", "Észtország", "Finnország", "Franciaország", "Görögország",
+    "Hollandia", "Horvátország", "Írország", "Izland", "Lengyelország", "Lettország",
+    "Liechtenstein", "Litvánia", "Luxemburg", "Észak-Macedónia", "Málta", "Moldova",
+    "Monaco", "Montenegró", "Németország", "Norvégia", "Olaszország", "Portugália",
+    "Románia", "San Marino", "Spanyolország", "Svájc", "Svédország", "Szerbia",
+    "Szlovákia", "Szlovénia", "Ukrajna", "Magyarország", "Egyesült Királyság",
+    "Oroszország", "Fehéroroszország"]
+
+afrikai_orszagok = [    "Algéria", "Angola", "Bissau-Guinea", "Botswana", "Burkina Faso", "Burundi",
+    "Comore-szigetek", "Csád", "Dél-Afrika", "Dél-Szudán", "Dzsibuti", "Egyiptom",
+    "Elefántcsontpart", "Eritrea", "Etiópia", "Gabon", "Gambia", "Ghána", "Guinea",
+    "Kamerun", "Kenya", "Kongói Demokratikus Köztársaság", "Kongói Köztársaság", "Lesotho",
+    "Libéria", "Líbia", "Madagaszkár", "Malawi", "Mali", "Marokkó", "Mauritánia", "Mauritius",
+    "Mozambik", "Namíbia", "Niger", "Nigéria", "Ruanda", "São Tomé és Príncipe", "Szenegál",
+    "Seychelles", "Sierra Leone", "Szomália", "Szudán", "Szváziföld", "Tanzánia", "Togo",
+    "Tunézia", "Uganda", "Zambia", "Zimbabwe", "Közép-afrikai Köztársaság", "Benin",
+    "Guinea-Bissau", "Egyenlítői-Guinea"]
+

@@ -1,0 +1,93 @@
+Szakasz	Útvonal	Távolság (km)	Szint (m)	Idő (perc)
+1	Írottkő - Hét-forrás	9,5	150	158
+1	Hét-forrás - Kőszeg	5	100	85
+1	Kőszeg - Tömörd	13,8	90	216
+1	Tömörd - Ablánc malom	9	40	139
+1	Ablánc malom - Szeleste	11,2	40	172
+1	Szeleste - Bögöt 	9	10	136
+1	Bögöt - Csényeújmajor 	8,2	0	123
+1	Csényeújmajor - Sárvár v.áll. 	4,5	0	68
+2	Sárvár v.áll. - Gérce	11,5	40	176
+2	Gérce - Rózsáskerti eh.	3	30	48
+2	Rózsáskerti eh. - Hidegkúti eh.	4,5	20	70
+2	Hidegkúti eh. - Káld	6,4	30	99
+2	Káld - Hosszúpereszteg 	11,2	60	174
+2	Hosszúpereszteg - Szajki eh. 	6,1	10	92
+2	Szajki eh. - Ötvös 	14,5	20	220
+2	Ötvös - Kisvásárhely 	8,9	50	138
+2	Kisvásárhely - Sümeg v.áll. 	5,8	20	89
+4	Keszthely - Vállus	12	250	205
+4	Vállus - Lesenceistvánd	6,8	220	124
+4	Lesenceistvánd - Tapolca	6,9	0	104
+5	Tapolca - Szt.Györgyh.th. 	5,2	190	97
+5	Szt.Györgyh.th. - Szigliget 	7,3	120	122
+5	Szigliget - B.tördemic v.áll. 	3,2	20	50
+6	B.tördemic v.áll. - Káptalantóti	10,8	420	204
+6	Káptalantóti - Szentbékkálla	9,3	260	166
+6	Szentbákkálla - Balatonhenye	6,8	300	132
+6	Balatonhenye - Csicsói eh.	6,1	220	113
+6	Csicsói eh. - Nagyvázsony	8	60	126
+7	Nagyvázsony - Kabhegy eh. 	10,4	330	188
+7	Kabhegy - Úrkút 	4	20	62
+7	Úrkút - Városlőd-Kislőd v.áll. 	7,8	50	122
+8	Városlőd-Kislőd v.áll. - Németbánya	11,6	180	192
+8	Németbánya - Bakonybél	8,4	160	142
+8	Bakonybél - Kőrishegy	6,7	510	152
+8	Kőrishegy - Borzavár	6	60	96
+8	Borzavár - Zirc	6	110	101
+9	Zirc - Bakonynána	9,5	80	150
+9	Bakonynána - Jásd	5	80	83
+9	Jásd - Csőszpuszta	4,2	350	98
+9	Csőszpuszta - Kisgyón	6,9	30	106
+9	Kisgyón - Bakonykúti	11,5	200	190
+9	Bakonykúti - Fehérvárcsurgó	8	250	145
+9	Fehérvárcsurgó - Csókakő vmh.	12	80	188
+11	Szárliget v.áll. - Somlyóvár	11,7	320	208
+11	Somlyóvár - Koldusszállás	8,4	80	134
+11	Koldusszállás - Bányahegyi eh. 	10,1	400	192
+11	Bányahegyi eh. - Gerecse üdülő	4,7	170	88
+11	Gerecse üdülő - Pusztamarót	2,4	40	40
+11	Pusztamarót - Péliföldszentkereszt	8,6	120	141
+11	Péliföldszentkereszt - Mogyorósbánya	5,2	260	104
+11	Mogyorósbánya - Tokodi bánya 	2,9	70	50
+11	Tokodi bánya - Dorog v.áll. 	13,2	490	247
+12	Dorog v.áll. - Kesztölc (Ny-i vége)	4,5	70	74
+12	Kesztölc - Klastrompuszta th.	5,9	200	200
+12	Klastrompuszta th. - Piliscsév	3	50	50
+12	Piliscsév - Piliscsaba v.áll.	5,2	120	120
+13	Piliscsaba v.áll. - Zsíroshegyi th.	11,9	420	220
+13	Zsíroshegyi th. - Hűvösvölgyi Úttörővasút áll.	9,8	60	153
+14	Hűvösvölgyi Úttörővasút áll. - Hármashatárhegy	8	350	155
+14	Hármashatárhegy - Csúcshegyi th.	3,5	100	62
+14	Csúcshegy - Bécsi út (18 sz. busz áll.)	2,4	0	36
+15	Bécsi út (18 sz. busz áll.) - Stromfeld A. th. 	6,3	480	142
+15	Stromfeld A. th. - Pilisszentkereszt 	12	170	197
+15	Pilisszentkereszt - Dobogókő th. 	4	350	95
+16	Dobogókő th. - Sikáros eh.	6	50	95
+16	Sikáros eh. - Pilisszentlászló	3,6	100	64
+16	Pilisszentlászló - Papréti eh.	3	140	59
+16	Papréti eh. - Nagy-Villám th.	8,8	220	154
+16	Nagy-Villám th. - Visegrád (komp)	2,8	0	42
+17	Nagymaros (komp) - Törökmezői th. 	10	480	198
+17	Törökmezői th. - Kisinóci th. 	7,9	190	138
+17	Kisinóci th. - Nagyhideghegyi th.	5,7	610	146
+17	Nagyhideghegyi th. - Nógrád v.áll.	14,5	330	250
+20	Mátraverebély v.mh. - Ágasvár th. 	7,4	550	166
+20	Ágasvár th. - Mátraszentistván 	4	130	73
+20	Mátraszentistván - Galyatető 	4,2	280	91
+20	Galyatető - Nyírjesi eh. 	4,8	20	74
+20	Nyírjesi eh. - Vörösmarty th. 	3,5	140	66
+20	Vörösmarty th. - Mátraháza 	2	50	35
+21	Mátraháza - Kékestető	2,4	330	69
+21	Kékestető - Hármashatár eh.	5,6	60	90
+21	Hármashatár eh. - Gazoskő	8,9	530	186
+21	Gazoskő - Sirok v.mh.	4,8	50	77
+22	Sirok v.mh. - Rozsnak pszt. eh.	7,5	190	132
+22	Rozsnak pszt. eh. - Szarvaskő v.áll.	10	150	165
+23	Szarvaskő v.áll. - Telekessy eh.	7,4	380	149
+23	Telekessy eh. - Cementgyár vmh.	3,6	60	60
+23	Cementgyár vmh. - Cserepeskői bg.	8	600	180
+23	Cserepeskői bg. - Bánkút	9,6	480	192
+24	Putnok v.áll. - Kelemér	10,7	220	182
+24	Kelemér - Zádorfalva	7,5	80	120
+24	Zádorfalva - Aggtelek bg.	11,8	180	195
