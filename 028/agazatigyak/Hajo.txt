@@ -1,0 +1,11 @@
+class Hajo():
+    def __init__(self, indulas, erkezes, ido, keses, utasSzam):
+        self.indulas= indulas
+        self.erkezes= erkezes
+        self.ido=ido
+        self.keses= keses
+        self.utasSzam= utasSzam
+      
+
+    def __str__(self):
+        return "{} {} {} {} {} ".format( self.indulas, self.erkezes, self.ido, self.keses, self.utasSzam)
