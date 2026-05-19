@@ -1,0 +1,29 @@
+/* HTML selector with overflow rules */
+html {
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
+/* Body background color */
+body {
+    background-color: #AFAFAF;
+}
+
+/* akcio class for product prices */
+.akcio {
+    color: rgb(255, 100, 100);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* oldalcim ID for page titles */
+#oldalcim {
+    font-size: 300%;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+/* h2 styling in jumbotron */
+.p-5.bg-info.text-white.rounded h2 {
+    color: rgb(224, 230, 235) !important;
+}
