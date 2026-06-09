@@ -1,0 +1,12 @@
+halfajtak = [
+    "Lazac",
+    "Tőkehal",
+    "Hering",
+    "Makréla",
+    "Lepényhal",
+    "Szivárványos pisztráng",
+    "Vörös álsügér",
+    "Fekete tőkehal",
+    "Foltos tőkehal",
+    "Szardínia"
+]

@@ -1,0 +1,26 @@
+Halfajta;Év;Mennyiség;Egységár
+Lazac;2020;450;12.5
+Tőkehal;2020;320;9.8
+Hering;2020;280;6.2
+Makréla;2020;190;7.5
+Lepényhal;2020;120;11.0
+Lazac;2021;520;13.0
+Tőkehal;2021;340;10.1
+Hering;2021;300;6.5
+Makréla;2021;210;7.8
+Szivárványos pisztráng;2021;160;12.2
+Lazac;2022;610;13.8
+Tőkehal;2022;380;10.5
+Hering;2022;330;6.8
+Makréla;2022;250;8.1
+Lepényhal;2022;140;11.5
+Lazac;2023;720;14.2
+Tőkehal;2023;410;10.9
+Hering;2023;360;7.0
+Makréla;2023;290;8.4
+Szivárványos pisztráng;2023;190;12.8
+Lazac;2024;680;14.5
+Tőkehal;2024;430;11.2
+Hering;2024;390;7.3
+Vörös álsügér;2024;170;13.5
+Fekete tőkehal;2024;210;12.0
